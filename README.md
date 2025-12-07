@@ -1,12 +1,10 @@
 <div align="center">
 
-![Welcome Banner](./git-readme-setup/banner.png)
+![Welcome Banner](./banner.png)
 
 ```
 </> AI Engineer | Building LLM-powered solutions | Deploying ML/LLM features to production </>
 ```
-
-> **To add your custom banner:** Replace the banner URL above with your image: `![Welcome Banner](./assets/welcome-banner.png)` or `![Welcome Banner](your-image-url)`
 
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-161B22?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Vasanthkumar262000)
@@ -20,14 +18,15 @@
 
 <div align="center">
 
-## 👤 About me
+## ☞ About me
 
 AI Engineer with expertise in deploying ML/LLM features, including RAG systems built with LangChain, LlamaIndex, and vector databases. Developed and fine-tuned generative AI models using QLoRA, DPO, and RLHF to enhance performance. Also delivered production-grade full-stack applications using React/TypeScript and Java/Spring Boot for high user impact.
 
-🎓 Studying at **DePaul University** (MS in Computer Science)
- 💼 Working as **AI Engineer** at WERSEC Inc.
- 🏆 **AWS Certified** AI Practitioner & ML Engineer
- 🖥️ Building production-grade LLM-powered RAG systems
+
+ ☕︎ Working as **AI Engineer** at WERSEC Inc.
+ ✶ **AWS Certified** AI Practitioner & ML Engineer
+ ✌︎ Graduated from  **DePaul University** (MS in Computer Science)
+ ⏏︎ Building production-grade LLM-powered RAG systems
 
 </div>
 
@@ -94,7 +93,7 @@ AI Engineer with expertise in deploying ML/LLM features, including RAG systems b
 ---
 
 
-## 🪧 Featured Projects
+## ⌘ Featured Projects
 
 <table>
 <tr>
@@ -137,18 +136,18 @@ Conversational analytics platform using RAG, Llama 3.2/Mistral LLMs, and Chroma 
 
 ---
 
-## 🔖 Certifications & Courses
+## ✍︎ Certifications & Courses
 
-- ✅ **AWS Certified AI Practitioner**
-- ✅ **AWS Certified Machine Learning Engineer - Associate**
-- ✅ **Microsoft Certified Python Developer (MCSD)**
-- ✅ **Google - Introduction to AI**
-- ✅ **Data Science with Python (Udemy)**
-- ✅ **Basics of JavaScript (Udemy)**
+- ✔︎ **AWS Certified AI Practitioner**
+- ✔︎ **AWS Certified Machine Learning Engineer - Associate**
+- ✔︎ **Microsoft Certified Python Developer (MCSD)**
+- ✔︎ **Google - Introduction to AI**
+- ✔︎ **Data Science with Python (Udemy)**
+- ✔︎ **Basics of JavaScript (Udemy)**
 
 ---
 
-##  Goals for 2025
+## ⌖ Goals for 2025
 
 - [ ] **Advance AI Engineering career** 
 - [ ] **Deploy 5+ production ML/LLM features**
@@ -161,7 +160,7 @@ Conversational analytics platform using RAG, Llama 3.2/Mistral LLMs, and Chroma 
 
 <div align="center">
 
-##  Fun Facts
+## ⎋ Fun Facts
 
  **Currently working on:** Building production-grade LLM-powered RAG systems and fine-tuning open-source models
 
