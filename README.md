@@ -1,6 +1,6 @@
 <div align="center">
 
-![Welcome Banner](https://via.placeholder.com/1200x300/0D1117/FFFFFF?text=Welcome+to+Vasanthkumar's+Github)
+![Welcome Banner](git-readme-setup/banner.png)
 
 ```
 </> AI Engineer | Building LLM-powered solutions | Deploying ML/LLM features to production </>
@@ -35,7 +35,7 @@ AI Engineer with expertise in deploying ML/LLM features, including RAG systems b
 
 <div align="center">  
 
-## 🛠️ Technologies
+## ★ Technologies
 
 ![Python](https://img.shields.io/badge/PYTHON-161B22?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-161B22?style=flat-square&logo=javascript&logoColor=white)
@@ -70,13 +70,14 @@ AI Engineer with expertise in deploying ML/LLM features, including RAG systems b
 
 <div align="center">
 
-## 📊 Statistics
+##  ⇪ Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vasanthkumar262000&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+<a href="https://github.com/Vasanthkumar262000">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vasanthkumar262000&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vasanthkumar262000&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="Top Languages" />
+</a>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vasanthkumar262000&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthkumar262000&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
 </div>
 
@@ -84,7 +85,7 @@ AI Engineer with expertise in deploying ML/LLM features, including RAG systems b
 
 <div align="center">
 
-## 📈 Vasanthkumar's Contribution Graph
+##  Vasanthkumar's Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vasanthkumar262000&theme=dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
 
