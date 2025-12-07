@@ -1,104 +1,91 @@
-# Vasanthkumar Ramamoorthi - AI Engineer
-
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/Vasanthkumar262000?style=for-the-badge&logo=github&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/Vasanthkumar262000?style=for-the-badge&logo=github&color=yellow)
-![GitHub commits](https://img.shields.io/github/commit-activity/m/Vasanthkumar262000?style=for-the-badge&logo=github&color=green)
-![Profile Views](https://komarev.com/ghpvc/?username=YVasanthkumar262000&color=blueviolet&style=for-the-badge)
+# Welcome to Vasanthkumar's Github
 
-**AI Engineer | Building LLM-powered solutions | Deploying ML/LLM features to production**
+```
+</> AI Engineer | Building LLM-powered solutions | Deploying ML/LLM features to production </>
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Vasanthkumar262000)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vasanthk262000)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vas.ram.2620@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Vasanthkumar262000)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/vasanthk262000)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)](https://vasanthkumarr.com)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vas.ram.2620@gmail.com)
 
 </div>
 
 ---
 
-##  GitHub Statistics
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vasanthkumar262000&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+## 👤 About me
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vasanthkumar262000&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+AI Engineer with expertise in deploying ML/LLM features, including RAG systems built with LangChain, LlamaIndex, and vector databases. Developed and fine-tuned generative AI models using QLoRA, DPO, and RLHF to enhance performance. Also delivered production-grade full-stack applications using React/TypeScript and Java/Spring Boot for high user impact.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthkumar262000&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vasanthkumar262000&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+- 🎓 Studying at **DePaul University** (MS in Computer Science)
+- 💼 Working as **AI Engineer** at WERSEC Inc.
+- 🏆 **AWS Certified** AI Practitioner & ML Engineer
+- 🚀 Building production-grade LLM-powered RAG systems
 
 </div>
 
 ---
 
-## Daily Activity Tracker
+<div align="center">
 
-###  This Week's Progress
+## 🛠️ Technologies
 
-<!--START_SECTION:activity-->
-<!-- Activity will be automatically updated by GitHub Actions -->
-<!--END_SECTION:activity-->
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-### Coding Streak
+![React](https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-```
-🔥 Current Streak: [Auto-updated via GitHub Actions]
-📊 Total Contributions: [Auto-updated]
-🎯 Goal: 2+ hours daily coding
-```
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/AZURE-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
-### AI & Machine Learning
-![Microsoft AI](https://img.shields.io/badge/Microsoft_AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure_AI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS AI](https://img.shields.io/badge/AWS_AI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon SageMaker](https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+<div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## 📊 Statistics
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vasanthkumar262000&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vasanthkumar262000&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FFFFFF?style=for-the-badge&logo=chroma&logoColor=black)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthkumar262000&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Vasanthkumar's Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vasanthkumar262000&theme=dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+
+</div>
 
 ---
 
@@ -150,135 +137,55 @@
 
 ---
 
-## 🏆 LeetCode Progress
-
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/vasanth262000?theme=dark&font=baloo&ext=activity)
-
-</div>
-
-**Current Stats:**
-- ✅ **Total Solved:** [Auto-updated]
-- 🎯 **Easy:** [X] | **Medium:** [Y] | **Hard:** [Z]
-- 📈 **Ranking:** Top [X]%
-- 🔥 **Streak:** [X] days
-
----
-
-
-## 💼 Portfolio & Projects
-
-<div align="center">
-
-### 🌐 [View My Portfolio Website](https://vasanthkumarr.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vasanthkumarr.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://your-resume-link.com)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 💡 Click on any project to learn more!
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 [AI Coding Agent](https://github.com/Vasanthkumar262000/AI_Coding_Agent)
-![Project Image](https://via.placeholder.com/400x200/0D1117/58A6FF?text=AI+Coding+Agent)
-
-**Tech Stack:** `LangGraph` `LangChain` `LLM` `Python` `Pydantic`
-
-Production-grade multi-agent system using ReAct agent pattern in LangGraph's StateGraph framework, implementing three specialized LLM agents (Planner, Architect, Coder) with structured output validation via Pydantic schemas.
-
-**Key Features:**
-- ✨ Multi-agent architecture with structured output validation for type-safe communication
-- 🚀 Optimized LLM integration pipeline leveraging Groq's high-performance inference API
-- 🔒 Deterministic structured outputs through role-specific system prompts and context-aware task descriptions
-- 💡 Sequential tool calling to prevent race conditions in parallel file operations
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vasanthkumar262000/AI_Coding_Agent)
-
-</td>
-<td width="50%">
-
-### 📊 Data Speak AI – AI-Powered Analytics Platform
-![Project Image](https://via.placeholder.com/400x200/0D1117/58A6FF?text=Data+Speak+AI)
-
-**Tech Stack:** `RAG` `ChromaDB` `LLM` `Whisper` `PostgreSQL` `Plotly` `Matplotlib`
-
-Conversational analytics platform using RAG, Llama 3.2/Mistral LLMs, and Chroma Vector DB to convert natural language into SQL queries—achieved 92% accuracy and saved 40+ analyst hours weekly.
-
-**Key Features:**
-- 🎯 92% accuracy in natural language to SQL conversion using RAG architecture
-- 🗣️ Voice-to-visual pipeline with Whisper STT, eliminating SQL barriers for 80% of users
-- ⚡ Reduced analysis time from 3 hours to 10 seconds through automated chart generation
-- 🎨 Modular system design from voice input to automated visualizations
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vasanthkumar262000)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Project Statistics
-
-<div align="center">
-
-![GitHub Repo Stats](https://github-contributor-stats.vercel.app/api?username=Vasanthkumar262000&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-**Total Projects:** [X] | **Total Stars:** [X] | **Total Forks:** [X]
-
-</div>
-
----
-
-## 🎯 Project Highlights
-
-### 🏆 Most Starred Projects
-
-<!--START_SECTION:top-repos-->
-<!-- This section will be auto-updated by GitHub Actions -->
-<!--END_SECTION:top-repos-->
-
-### 🔥 Recent Projects
-
-<!--START_SECTION:recent-repos-->
-<!-- This section will be auto-updated by GitHub Actions -->
-<!--END_SECTION:recent-repos-->
-
----
-
-## 📈 Monthly Progress
-
-### Current Month: [Month Year]
-
-| Metric | Target | Current | Progress |
-|--------|--------|---------|----------|
-| LeetCode Problems | 100 | [X] | [X]% |
-| Projects Completed | 2 | [X] | [X]% |
-| GitHub Contributions | 200+ | [X] | [X]% |
-| Hours Coded | 120+ | [X] | [X]% |
-| System Designs | 5 | [X] | [X]% |
-
----
-
 ## 🎓 Education
 
 ### Master of Science in Computer Science (STEM)
 **DePaul University** | *Chicago, Illinois* | *September 2023 – November 2025*
 
 **Relevant Coursework:** Distributed Systems, Algorithms, Object-Oriented Programming Language, Programming Concepts, Data Structures, Artificial Intelligence, Image Processing, Image Analysis, Computer Vision
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 [AI Coding Agent](https://github.com/Vasanthkumar262000/AI_Coding_Agent)
+
+**Tech Stack:** `LangGraph` `LangChain` `LLM` `Python` `Pydantic`
+
+Production-grade multi-agent system using ReAct agent pattern in LangGraph's StateGraph framework, implementing three specialized LLM agents (Planner, Architect, Coder) with structured output validation via Pydantic schemas.
+
+**Key Features:**
+- ✨ Multi-agent architecture with structured output validation
+- 🚀 Optimized LLM integration pipeline with Groq API
+- 🔒 Deterministic structured outputs
+- 💡 Sequential tool calling to prevent race conditions
+
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vasanthkumar262000/AI_Coding_Agent)
+
+</td>
+<td width="50%">
+
+### 📊 Data Speak AI – AI-Powered Analytics Platform
+
+**Tech Stack:** `RAG` `ChromaDB` `LLM` `Whisper` `PostgreSQL` `Plotly` `Matplotlib`
+
+Conversational analytics platform using RAG, Llama 3.2/Mistral LLMs, and Chroma Vector DB to convert natural language into SQL queries—achieved 92% accuracy and saved 40+ analyst hours weekly.
+
+**Key Features:**
+- 🎯 92% accuracy in natural language to SQL conversion
+- 🗣️ Voice-to-visual pipeline with Whisper STT
+- ⚡ Reduced analysis time from 3 hours to 10 seconds
+- 🎨 Modular system design
+
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vasanthkumar262000)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -293,19 +200,6 @@ Conversational analytics platform using RAG, Llama 3.2/Mistral LLMs, and Chroma 
 
 ---
 
-## 📝 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Open Source Contributions
-
-![GitHub Contribution Graph](https://github-contributor-stats.vercel.app/api?username=Vasanthkumar262000&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 ## 🎯 Goals for 2025
 
 - [ ] **Advance AI Engineering career** 🎯
@@ -317,32 +211,26 @@ Conversational analytics platform using RAG, Llama 3.2/Mistral LLMs, and Chroma 
 
 ---
 
-## 📊 WakaTime Stats (Optional - if you use WakaTime)
-
-<!--START_SECTION:waka-->
-<!-- WakaTime stats will appear here if configured -->
-<!--END_SECTION:waka-->
-
----
+<div align="center">
 
 ## 💡 Fun Facts
 
-- 🔥 **Currently working on:** Building production-grade LLM-powered RAG systems and fine-tuning open-source models
-- 🌱 **Learning:** Advanced prompt engineering, RLHF techniques, and large-scale ML system design
-- 👯 **Looking to collaborate on:** Open-source AI projects, LLM applications, and ML infrastructure
-- 💬 **Ask me about:** RAG systems, LangChain/LlamaIndex, LLM fine-tuning, Multi-agent systems, Full-stack development
-- 📫 **How to reach me:** vas.ram.2620@gmail.com
-- ⚡ **Fun fact:** I've built AI systems that reduced analysis time from 3 hours to 10 seconds! 🚀
+🔥 **Currently working on:** Building production-grade LLM-powered RAG systems and fine-tuning open-source models
 
----
+🌱 **Learning:** Advanced prompt engineering, RLHF techniques, and large-scale ML system design
 
-## 🏅 GitHub Trophies
+👯 **Looking to collaborate on:** Open-source AI projects, LLM applications, and ML infrastructure
 
-<div align="center">
+💬 **Ask me about:** RAG systems, LangChain/LlamaIndex, LLM fine-tuning, Multi-agent systems, Full-stack development
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Vasanthkumar262000&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+⚡ **Fun fact:** I've built AI systems that reduced analysis time from 3 hours to 10 seconds! 🚀
 
 </div>
 
+---
 
+<div align="center">
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Vasanthkumar262000&theme=dark&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
