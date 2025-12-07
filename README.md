@@ -1,10 +1,12 @@
 <div align="center">
 
-![Welcome Banner](./banner.png)
+<img src="./banner.png" alt="Welcome Banner" width="100%" />
 
 ```
 </> AI Engineer | Building LLM-powered solutions | Deploying ML/LLM features to production </>
 ```
+
+> 💡 **Note:** If the banner doesn't appear, after pushing to GitHub, the image will load from the repository. For immediate display, you can also use: `![Welcome Banner](https://raw.githubusercontent.com/Vasanthkumar262000/YOUR_REPO_NAME/main/banner.png)` (replace YOUR_REPO_NAME with your actual repo name)
 
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-161B22?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Vasanthkumar262000)
@@ -23,10 +25,10 @@
 AI Engineer with expertise in deploying ML/LLM features, including RAG systems built with LangChain, LlamaIndex, and vector databases. Developed and fine-tuned generative AI models using QLoRA, DPO, and RLHF to enhance performance. Also delivered production-grade full-stack applications using React/TypeScript and Java/Spring Boot for high user impact.
 
 
- ☕︎ Working as **AI Engineer** at WERSEC Inc.
- ✶ **AWS Certified** AI Practitioner & ML Engineer
- ✌︎ Graduated from  **DePaul University** (MS in Computer Science)
- ⏏︎ Building production-grade LLM-powered RAG systems
+ ♔ Working as **AI Engineer** at WERSEC Inc. \n
+ ✶ **AWS Certified** AI Practitioner & ML Engineer \n
+ ✌︎ Graduated from  **DePaul University** (MS in Computer Science) \n
+ ⏏︎ Building production-grade LLM-powered RAG systems \n
 
 </div>
 
