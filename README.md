@@ -1,6 +1,6 @@
 <div align="center">
 
-![Welcome Banner](git-readme-setup/banner.png)
+![Welcome Banner](./git-readme-setup/banner.png)
 
 ```
 </> AI Engineer | Building LLM-powered solutions | Deploying ML/LLM features to production </>
