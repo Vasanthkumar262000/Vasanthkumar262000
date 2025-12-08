@@ -75,9 +75,13 @@ AI Engineer with expertise in deploying ML/LLM features, including RAG systems b
 
 ##  ⇪ Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vasanthkumar262000&theme=dark&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthkumar262000&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&layout=compact&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthkumar262000&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&layout=compact&langs_count=8)
+[![Metrics](https://metrics.lecoq.io/Vasanthkumar262000?template=classic)](https://metrics.lecoq.io/Vasanthkumar262000?template=classic)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Vasanthkumar262000&theme=dracula&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com?user=Vasanthkumar262000&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
