@@ -20,22 +20,26 @@
 
 ## ☞ About me
 
+
+<table>
+<tr>
+<td width="60%">
+
 AI Engineer with expertise in deploying ML/LLM features, including RAG systems built with LangChain, LlamaIndex, and vector databases. Developed and fine-tuned generative AI models using QLoRA, DPO, and RLHF to enhance performance. Also delivered production-grade full-stack applications using React/TypeScript and Java/Spring Boot for high user impact.
 
+♔ Working as **AI Engineer** at WERSEC Inc.  
+✶ **AWS Certified** AI Practitioner & ML Engineer.  
+✌︎ Graduated from **DePaul University** (MS in Computer Science)  
+⏏︎ Building production-grade LLM-powered RAG systems  
 
- ♔ Working as **AI Engineer** at WERSEC Inc.  
- <br>
- ✶ **AWS Certified** AI Practitioner & ML Engineer.  
- <br>
- ✌︎ Graduated from  **DePaul University** (MS in Computer Science)  
- <br>
- ⏏︎ Building production-grade LLM-powered RAG systems
-
-<div align="right">
+</td>
+<td width="40%">
 
 ![Alt text](me.png)
+</td>
+</tr>
+</table>
 
-</div>
 </div>
 
 ---
