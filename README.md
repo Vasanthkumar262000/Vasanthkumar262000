@@ -149,7 +149,7 @@ Conversational analytics platform using RAG, Llama 3.2/Mistral LLMs, and Chroma 
 ---
 <div align ="center">
 
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=vasanthk262000)](https://leetcode.com/vasanthk262000)
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=vasanth262000)](https://leetcode.com/vasanth262000)
 
 </div>
 
