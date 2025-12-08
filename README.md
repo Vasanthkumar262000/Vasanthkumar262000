@@ -47,7 +47,10 @@ AI Engineer with expertise in deploying ML/LLM features, including RAG systems b
 <div align="center">  
 
 ## ★ Technologies
-
+![Microsoft Azure](https://img.shields.io/badge/AZURE-161B22?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/COPILOT-161B22?style=flat-square&logo=microsoft&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/SAGEMAKER-161B22?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure AI](https://img.shields.io/badge/AZURE_AI-161B22?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-161B22?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-161B22?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-161B22?style=flat-square&logo=typescript&logoColor=white)
@@ -144,6 +147,12 @@ Conversational analytics platform using RAG, Llama 3.2/Mistral LLMs, and Chroma 
 </table>
 
 ---
+<div align ="center">
+
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=vasanthk262000)](https://leetcode.com/vasanthk262000)
+
+</div>
+
 <div align="left">
 
 ## ✍︎ Certifications & Courses
