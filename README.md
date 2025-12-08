@@ -94,7 +94,6 @@ AI Engineer with expertise in deploying ML/LLM features, including RAG systems b
 
 <div align="center">
 
-##  Vasanthkumar's Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vasanthkumar262000&theme=dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
 
