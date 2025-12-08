@@ -16,7 +16,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## ☞ About me
 
@@ -29,9 +29,13 @@ AI Engineer with expertise in deploying ML/LLM features, including RAG systems b
  <br>
  ✌︎ Graduated from  **DePaul University** (MS in Computer Science)  
  <br>
- ⏏︎ Building production-grade LLM-powered RAG systems 
- <br> 
+ ⏏︎ Building production-grade LLM-powered RAG systems
 
+<div align="right">
+
+![Alt text](me.png)
+
+</div>
 </div>
 
 ---
