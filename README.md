@@ -137,15 +137,16 @@ Conversational analytics platform using RAG, Llama 3.2/Mistral LLMs, and Chroma 
 </table>
 
 ---
+<div align="left">
 
 ## ✍︎ Certifications & Courses
 
-- ✔︎ **AWS Certified AI Practitioner**
-- ✔︎ **AWS Certified Machine Learning Engineer - Associate**
-- ✔︎ **Microsoft Certified Python Developer (MCSD)**
-- ✔︎ **Google - Introduction to AI**
-- ✔︎ **Data Science with Python (Udemy)**
-- ✔︎ **Basics of JavaScript (Udemy)**
+ ✔︎ **AWS Certified AI Practitioner**  
+ ✔︎ **AWS Certified Machine Learning Engineer - Associate**  
+ ✔︎ **Microsoft Certified Python Developer (MCSD)**  
+ ✔︎ **Google - Introduction to AI**  
+ ✔︎ **Data Science with Python (Udemy)**  
+ ✔︎ **Basics of JavaScript (Udemy)**  
 
 ---
 
@@ -159,6 +160,7 @@ Conversational analytics platform using RAG, Llama 3.2/Mistral LLMs, and Chroma 
 - [ ] **Share knowledge through technical blogs** about AI/ML
 
 ---
+</div>
 
 <div align="center">
 
