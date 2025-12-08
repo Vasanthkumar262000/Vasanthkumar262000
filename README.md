@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="./banner.png" alt="Welcome Banner" width="100%" />
+![Welcome Banner](./banner.png)
 
 ```
 </> AI Engineer | Building LLM-powered solutions | Deploying ML/LLM features to production </>
 ```
-
-> 💡 **Note:** If the banner doesn't appear, after pushing to GitHub, the image will load from the repository. For immediate display, you can also use: `![Welcome Banner](https://raw.githubusercontent.com/Vasanthkumar262000/YOUR_REPO_NAME/main/banner.png)` (replace YOUR_REPO_NAME with your actual repo name)
 
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-161B22?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Vasanthkumar262000)
@@ -25,10 +23,10 @@
 AI Engineer with expertise in deploying ML/LLM features, including RAG systems built with LangChain, LlamaIndex, and vector databases. Developed and fine-tuned generative AI models using QLoRA, DPO, and RLHF to enhance performance. Also delivered production-grade full-stack applications using React/TypeScript and Java/Spring Boot for high user impact.
 
 
- ♔ Working as **AI Engineer** at WERSEC Inc. \n
- ✶ **AWS Certified** AI Practitioner & ML Engineer \n
- ✌︎ Graduated from  **DePaul University** (MS in Computer Science) \n
- ⏏︎ Building production-grade LLM-powered RAG systems \n
+ ♔ Working as **AI Engineer** at WERSEC Inc.  
+ ✶ **AWS Certified** AI Practitioner & ML Engineer.  
+ ✌︎ Graduated from  **DePaul University** (MS in Computer Science)  
+ ⏏︎ Building production-grade LLM-powered RAG systems  
 
 </div>
 
@@ -74,11 +72,13 @@ AI Engineer with expertise in deploying ML/LLM features, including RAG systems b
 ##  ⇪ Statistics
 
 <a href="https://github.com/Vasanthkumar262000">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vasanthkumar262000&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vasanthkumar262000&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="Top Languages" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Vasanthkumar262000&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthkumar262000&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="Top Languages" />
 </a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vasanthkumar262000&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+<br><br>
+
+<img align="center" src="https://github-readme-streak-stats.demolab.com/?user=Vasanthkumar262000&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
 </div>
 
