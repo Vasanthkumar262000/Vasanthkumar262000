@@ -77,11 +77,6 @@ AI Engineer with expertise in deploying ML/LLM features, including RAG systems b
 
 <div align="center">
 
-[![Metrics](https://metrics.lecoq.io/Vasanthkumar262000?template=classic)](https://metrics.lecoq.io/Vasanthkumar262000?template=classic)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Vasanthkumar262000&theme=dracula&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com?user=Vasanthkumar262000&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
@@ -185,6 +180,6 @@ Conversational analytics platform using RAG, Llama 3.2/Mistral LLMs, and Chroma 
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Vasanthkumar262000&theme=dark&no-frame=true&no-bg=true&margin-w=4&column=7)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Vasanthkumar262000&theme=dracula&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
