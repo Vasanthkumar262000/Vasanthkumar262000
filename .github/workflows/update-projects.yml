@@ -1,0 +1,44 @@
+name: Update Projects Section
+
+on:
+  schedule:
+    # Runs every day at 02:00 UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-projects:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update top repositories
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Get repository stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: github-metrics.svg
+          base: ""
+          template: repository
+          repositories: YOUR_USERNAME/repo1, YOUR_USERNAME/repo2, YOUR_USERNAME/repo3
+          repository_show: true
+          repository_limit: 5
+          repository_features: stars, forks, languages, commits
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update projects section"
+          git push
+
+
+
+
+
