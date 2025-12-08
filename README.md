@@ -72,13 +72,13 @@ AI Engineer with expertise in deploying ML/LLM features, including RAG systems b
 ##  ⇪ Statistics
 
 <a href="https://github.com/Vasanthkumar262000">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Vasanthkumar262000&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthkumar262000&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vasanthkumar262000&theme=dark&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthkumar262000&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&layout=compact&langs_count=8" />
 </a>
 
 <br><br>
 
-<img align="center" src="https://github-readme-streak-stats.demolab.com/?user=Vasanthkumar262000&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasanthkumar262000&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
 </div>
 
